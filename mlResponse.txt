@@ -1,0 +1,117 @@
+MonkeyLearn\MonkeyLearnResponse Object
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907816
+                            [probability] => 0.402
+                            [label] => positive
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907818
+                            [probability] => 0.537
+                            [label] => neutral
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907818
+                            [probability] => 0.537
+                            [label] => neutral
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907816
+                            [probability] => 0.637
+                            [label] => positive
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907816
+                            [probability] => 0.649
+                            [label] => positive
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907818
+                            [probability] => 0.385
+                            [label] => neutral
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907816
+                            [probability] => 0.373
+                            [label] => positive
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 21907816
+                            [probability] => 0.713
+                            [label] => positive
+                        )
+
+                )
+
+        )
+
+    [query_limit_remaining] => 490
+    [headers] => Array
+        (
+            [0] => Array
+                (
+                    [0] => HTTP/1.1 200 OK
+                    [response_code] => 200
+                    [Server] => nginx/1.11.5
+                    [Date] => Fri, 12 Jan 2018 19:25:56 GMT
+                    [Content-Type] => application/json
+                    [Connection] => close
+                    [X-Query-Limit-Limit] => 500
+                    [X-Query-Limit-Remaining] => 490
+                    [X-Query-Limit-Request-Queries] => 8
+                    [Allow] => POST, OPTIONS
+                )
+
+        )
+
+)
+1
+
+
